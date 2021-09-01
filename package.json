@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rseddon/testnpm/issues"
   },
-  "homepage": "https://github.com/rseddon/testnpm#readme"
+  "homepage": "https://github.com/rseddon/testnpm#readme",
+  "publishConfig": {
+   "@rseddon:registry": "https://npm.pkg.github.com"
+ }
 }
